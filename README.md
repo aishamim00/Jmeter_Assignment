@@ -57,10 +57,14 @@ After pass the load test we conduct the stress testing starting from 20 minuntes
 
 ![l2](https://github.com/user-attachments/assets/5eaa1ccb-191b-4bc1-b815-5523d3bce3bf)
 
+## load test ans stress test from excel file
+
+[booking-api-test-report.xlsx](https://github.com/user-attachments/files/19259467/booking-api-test-report.xlsx)
+
 
 # For Question-2
-# Demoney Test Case
-## Report summary for deposit
+## Demoney Test Case
+### Report summary for deposit
 
 ![depo](https://github.com/user-attachments/assets/e20bf174-265c-4b70-9e79-5407185ec00b)
 
