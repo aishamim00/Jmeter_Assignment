@@ -15,6 +15,7 @@ Throughput (Requests per Second): 120,000 users / 43,200 seconds ≈ 2.78 reques
 
 ## This is Load test Excel file
 
+
 ![l1](https://github.com/user-attachments/assets/fe649776-9fb1-469f-815f-3c569d509f32)
 
 ## This is Load test Step Report 
@@ -43,6 +44,13 @@ After pass the load test we conduct the stress testing starting from 20 minuntes
 
 ## This is Stress test  Excel file
 
+##  Summary report 20-minute load test for 7500 users
+
+![7500](https://github.com/user-attachments/assets/8cc7ed1a-5ece-4881-8831-b52fc4898201)
+
+##  Summary report 20-minute load test for 9000 users
+
+![9000](https://github.com/user-attachments/assets/ba3d1072-c96c-4375-8dda-554796b8ab3e)
 
 
 ## html report for Stress testing
