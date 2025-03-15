@@ -28,9 +28,6 @@ Throughput (Requests per Second): 120,000 users / 43,200 seconds ≈ 2.78 reques
 ![10min](https://github.com/user-attachments/assets/31183925-8178-46e0-912b-2dcac575df22)
 
 -  For 20 minutes and the HTML report
-
-![20min](https://github.com/user-attachments/assets/3b0dbbfc-bad7-448f-9156-dd146623881b)
-
   
 ![loadtest](https://github.com/user-attachments/assets/4f709b20-25aa-41fb-8f80-caff34bda6c9)
 
