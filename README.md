@@ -58,10 +58,9 @@ After pass the load test we conduct the stress testing starting from 20 minuntes
 
 ![l2](https://github.com/user-attachments/assets/5eaa1ccb-191b-4bc1-b815-5523d3bce3bf)
 
+
 ## load test and stress test from excel file
-
-[booking-api-test-report.xlsx](https://github.com/user-attachments/files/19259508/booking-api-test-report.xlsx)
-
+[booking-api-test-report.xlsx](https://github.com/user-attachments/files/19260767/booking-api-test-report.xlsx)
 
 # For Question-2
 ## Demoney Test Case
