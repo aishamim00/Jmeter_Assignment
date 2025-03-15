@@ -43,12 +43,11 @@ After pass the load test we conduct the stress testing starting from 20 minuntes
 
 ## This is Stress test  Excel file
 
-![SX](https://github.com/user-attachments/assets/7a39c08a-549c-485d-bf9e-8ae40bfe2a2d)
+
 
 ## html report for Stress testing
 
-![12KuSER](https://github.com/user-attachments/assets/a185cfd1-e69c-4821-ab38-b169b4c5f365)
-
+![l2](https://github.com/user-attachments/assets/8fb9e1ba-2df5-410d-9fea-6d6f3b9ea65c)
 
 
 # For Question-2
