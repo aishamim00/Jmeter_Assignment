@@ -52,6 +52,10 @@ After pass the load test we conduct the stress testing starting from 20 minuntes
 
 ![9000](https://github.com/user-attachments/assets/ba3d1072-c96c-4375-8dda-554796b8ab3e)
 
+##  Summary report 20-minute load test for 12000 users
+
+![12000](https://github.com/user-attachments/assets/a566c9e7-832a-4c01-9fa7-66dd173f8e1f)
+
 
 ## html report for Stress testing
 
@@ -59,7 +63,6 @@ After pass the load test we conduct the stress testing starting from 20 minuntes
 
 ## load test ans stress test from excel file
 
-[booking-api-test-report.xlsx](https://github.com/user-attachments/files/19259467/booking-api-test-report.xlsx)
 
 
 # For Question-2
